@@ -41,7 +41,7 @@ const config = {
   shadows: true, // Use shadow
   trees: true, // Add trees to the map
   curbs: true, // Show texture on the extruded geometry
-  grid: false // Show grid helper
+  grid: false // Show grid helpe
 };
 
 let score;
